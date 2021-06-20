@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Raghav Gupta</h1>
 <h2 align="center"><img src="https://cdn.icon-icons.com/icons2/10/PNG/256/openfolderarrow_abierta_decarpetas_1558.png" width="20px"> Project Open for Contribution</h2>
 <table align="center">
     <thead align="center">
